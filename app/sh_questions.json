@@ -1,0 +1,508 @@
+[
+  {
+    "id": "q1",
+    "question": "Dawn or dusk?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Dawn"
+      },
+      { "id": "a2", "value": "Dusk" }
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "Forest or river?",
+    "options": [
+      { "id": "a1", "value": "Forest" },
+      { "id": "a2", "value": "River" }
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "Moon or stars?",
+    "options": [
+      { "id": "a1", "value": "Moon" },
+      { "id": "a2", "value": "Stars" }
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "Which of the following would you most hate people to call you?",
+    "options": [
+      { "id": "a1", "value": "Ordinary" },
+      { "id": "a2", "value": "Ignorant" },
+      { "id": "a3", "value": "Cowardly" },
+      { "id": "a4", "value": "Selfish" }
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "After you died, what would you most like people to do when they hear your name?",
+    "options": [
+      { "id": "a1", "value": "Miss you, but smile" },
+      { "id": "a2", "value": "Ask for more stories about your adventures" },
+      { "id": "a3", "value": "Think with admiration of your achievements" },
+      {
+        "id": "a4",
+        "value": "I don't care what people think of me after I'm dead, it's what they think of me while I'm alive that counts"
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "How would you like to be known to history",
+    "options": [
+      { "id": "a1", "value": "The Wise" },
+      { "id": "a2", "value": "The Good" },
+      { "id": "a3", "value": "The Great" },
+      { "id": "a4", "value": "The Bold" }
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "Given the choice, would you rather invent a potion that would guarantee you:",
+    "options": [
+      { "id": "a1", "value": "Love?" },
+      { "id": "a2", "value": "Glory?" },
+      { "id": "a3", "value": "Wisdom?" },
+      { "id": "a4", "value": "Power" }
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "Once every century, the Flutterby bush produces flowers that adapt their scent to attract the unwary. If it lured you, it would smeel of:",
+    "options": [
+      { "id": "a1", "value": "A crackling log fire" },
+      { "id": "a2", "value": "The sea" },
+      { "id": "a3", "value": "Fresh parchment" },
+      { "id": "a4", "value": "Home" }
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "Four goblets are placed before you. Which would you choose to drink?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "The foaming, frothing, silvery liquid that sparkles as though containing ground diamonds"
+      },
+
+      {
+        "id": "a2",
+        "value": "The smooth, thick, richly purple drink that gives off a delicious smell of chocolate and plums"
+      },
+      {
+        "id": "a3",
+        "value": "The golden liquid so bright that it hurts the eye, and which makes sunspots dance all around the room"
+      },
+      {
+        "id": "a4",
+        "value": "The mysterious black liquid that gleams like ink, and gives off fumes that make you see strange visions"
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "What kind of instrument most pleases your ear?",
+    "options": [
+      { "id": "a1", "value": "The violin" },
+      { "id": "a2", "value": "The trumpet" },
+      { "id": "a3", "value": "The piano" },
+      { "id": "a4", "value": "The drum" }
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "You enter an enchanted garden. What would you be most curious to examine first?",
+    "options": [
+      { "id": "a1", "value": "The silver leafed tree bearing golden apples" },
+      {
+        "id": "a2",
+        "value": "The fat red toadstools that appear to be talking to each other"
+      },
+      {
+        "id": "a3",
+        "value": "The bubbling pool, in the depths of which something luminous is swirling"
+      },
+      {
+        "id": "a4",
+        "value": "The statue of an old wizard with a strangely twinkling eye"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Four boxes are placed before you. Which would you try and open?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "The small tortoiseshell box, embellished with gold, inside which some small creature seems to be squeaking"
+      },
+      {
+        "id": "a2",
+        "value": "The gleaming jet black box with a silver lock and key, marked with a mysterious rune that you know to be the mark of Merlin"
+      },
+      {
+        "id": "a3",
+        "value": "The ornate golden casket, standing on clawed feet, whose inscription warns that both secret knowledge and unbearable"
+      },
+      {
+        "id": "a4",
+        "value": "The small pewter box, unassuming and plain, with a scratched message upon it that reads ‘I open only for the worthy'"
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "A troll has gone beserk in the Headmaster's study at Hogwarts. It is about to smash, crush and tear several irreplaceable items and treasures. In which order would you rescue these objects from the troll's club, if you could?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "First, a nearly perfected cure for dragon pox. Then student records going back 1000 years. Finally, a mysterious handwritten book full of strange runes"
+      },
+      {
+        "id": "a2",
+        "value": "First, student records going back 1000 years. Then a mysterious handwritten book full of strange runes. Finally, a nearly"
+      },
+      {
+        "id": "a3",
+        "value": "First, a mysterious handwritten book full of strange runes. Then a nearly perfected cure for dragon pox. Finally, student records going back 1000 years"
+      },
+      {
+        "id": "a4",
+        "value": "First, a nearly perfected cure for dragon pox. Then a mysterious handwritten book full of strange runes. Finally, student records going back 1000 years"
+      },
+      {
+        "id": "a5",
+        "value": "First student records going back 1000 years. Then, a nearly perfected cure for dragon pox. Finally, a mysterious handwritten book full of strange runes"
+      },
+      {
+        "id": "a6",
+        "value": "First, a mysterious handwritten book full of strange runes. Then student records going back 1000 years. Finally, a nearly perfected cure for dragon pox"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "Which of the following do you find most difficult to deal with?",
+    "options": [
+      { "id": "a1", "value": "Hunger" },
+      { "id": "a2", "value": "Cold" },
+      { "id": "a3", "value": "Loneliness" },
+      { "id": "a4", "value": "Boredom" },
+      { "id": "a5", "value": "Being ignored" }
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "Which would you rather be:",
+    "options": [
+      { "id": "a1", "value": "Envied?" },
+      { "id": "a2", "value": "Imitated?" },
+      { "id": "a3", "value": "Trusted?" },
+      { "id": "a4", "value": "Praised?" },
+      { "id": "a5", "value": "Liked?" },
+      { "id": "a6", "value": "Feared?" }
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "If you could have any power, which would you choose?",
+    "options": [
+      { "id": "a1", "value": "The power to read minds" },
+      { "id": "a2", "value": "The power of invisibility" },
+      { "id": "a3", "value": "The power of superhuman strength" },
+      { "id": "a4", "value": "The power to speak to animals" },
+      { "id": "a5", "value": "The power to change the past" },
+      { "id": "a6", "value": "The power to change your appearance at will" }
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "What are you most looking forward to learning at Hogwarts?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Apparition and Disapparition (being able to materialize and dematerialize at will)"
+      },
+      {
+        "id": "a2",
+        "value": "Transfiguration (turning one object into another object)"
+      },
+      { "id": "a3", "value": "Flying on a broomstick" },
+      { "id": "a4", "value": "Hexes and jinxes" },
+      {
+        "id": "a5",
+        "value": "All about magical creatures, and how to befriend/care for them"
+      },
+      { "id": "a6", "value": "Secrets about the castle" },
+      { "id": "a7", "value": "Every area of magic I can" }
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "Which of the following would you most like to study?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Centaurs"
+      },
+      {
+        "id": "a2",
+        "value": "Goblins"
+      },
+      {
+        "id": "a3",
+        "value": "Merpeople"
+      },
+      {
+        "id": "a4",
+        "value": "Ghosts"
+      },
+      {
+        "id": "a5",
+        "value": "Vampires"
+      },
+      {
+        "id": "a6",
+        "value": "Werewolves"
+      },
+      {
+        "id": "a7",
+        "value": "Trolls"
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "You and two friends need to cross a bridge guarded by a river troll who insists on fighting one of you before he will let all of you pass. Do you:",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Attempt to confuse the troll into letting all three of you pass without fighting?"
+      },
+      {
+        "id": "a2",
+        "value": "Suggest drawing lots to decide which of you will fight?"
+      },
+      {
+        "id": "a3",
+        "value": "Suggest that all three of you should fight (without telling the troll)?"
+      },
+      {
+        "id": "a4",
+        "value": "Volunteer to fight?"
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "One of your house mates has cheated in a Hogwarts exam by using a Self-Spelling Quill. Now he has come top of the class in Charms, beating you into second place. Professor Flitwick is suspicious of what happened. He draws you to one side after his lesson and asks you whether or not your classmate used a forbidden quill. What do you do?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Lie and say you don't know (but hope that somebody else tells Professor Flitwick the truth)"
+      },
+      {
+        "id": "a2",
+        "value": "Tell Professor Flitwick that he ought to ask your classmate (and resolve to tell your classmate that if he doesn't tell the truth, you will)"
+      },
+      {
+        "id": "a3",
+        "value": "Tell Professor Flitwick the truth. If your classmate is prepared to win by cheating, he deserves to be found out. Also, as you are both in the same house, any points he loses will be regained by you, for coming first in his place"
+      },
+      {
+        "id": "a4",
+        "value": "You would not wait to be asked to tell Professor Flitwick the truth. If you knew that somebody was using a forbidden quill, you would tell the teacher before the exam started"
+      }
+    ]
+  },
+  {
+    "id": "q21",
+    "question": "A Muggle confronts you and says that they are sure you are a witch or wizard. Do you:",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Ask what makes them think so?"
+      },
+      {
+        "id": "a2",
+        "value": "Agree, and ask whether they'd like a free sample of a jinx?"
+      },
+      {
+        "id": "a3",
+        "value": "Agree, and walk away, leaving them to wonder whether you are bluffing?"
+      },
+      {
+        "id": "a4",
+        "value": "Tell them that you are worried about their mental health, and offer to call a doctor"
+      }
+    ]
+  },
+  {
+    "id": "q22",
+    "question": "Which nightmare would frighten you most?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Standing on top of something very high and realizing suddenly that there are no hand- or footholds, nor any barrier to stop you falling"
+      },
+      {
+        "id": "a2",
+        "value": "An eye at the keyhole of the dark, windowless room in which you are locked"
+      },
+      {
+        "id": "a3",
+        "value": "Waking up to find that neither your friends nor your family have any idea who you are"
+      },
+      {
+        "id": "a4",
+        "value": "Being forced to speak in such a silly voice that hardly anyone can understand you, and everyone laughs at you"
+      }
+    ]
+  },
+  {
+    "id": "q23",
+    "question": "Which road tempts you most?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "The wide, sunny, grassy lane"
+      },
+      {
+        "id": "a2",
+        "value": "The narrow, dark, lantern-lit alley"
+      },
+      {
+        "id": "a3",
+        "value": "The twisting, leaf-strewn path through woods"
+      },
+      {
+        "id": "a4",
+        "value": "The cobbled street lined with ancient buildings"
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "question": "Late at night, walking alone down the street, you hear a peculiar cry that you believe to have a magical source. Do you:",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Proceed with caution, keeping one hand on your concealed wand and an eye out for any disturbance?"
+      },
+      {
+        "id": "a2",
+        "value": "Draw your wand and try to discover the source of the noise?"
+      },
+      {
+        "id": "a3",
+        "value": "Draw your wand and stand your ground?"
+      },
+      {
+        "id": "a4",
+        "value": "Withdraw into the shadows to await developments, while mentally reviewing the most appropriate defensive and offensive spells, should trouble occur"
+      }
+    ]
+  },
+  {
+    "id": "q25",
+    "question": "If you were attending Hogwarts, which pet would you choose to take with you?",
+    "options": [
+      { "id": "a1", "value": "Tabby cat" },
+      {
+        "id": "a2",
+        "value": "Siamese cat"
+      },
+      { "id": "a3", "value": "Ginger cat" },
+      {
+        "id": "a4",
+        "value": "Black cat"
+      },
+      {
+        "id": "a5",
+        "value": "White cat"
+      },
+      { "id": "a6", "value": "Tawny owl" },
+      {
+        "id": "a7",
+        "value": "Screech owl"
+      },
+      {
+        "id": "a8",
+        "value": "Brown owl"
+      },
+      {
+        "id": "a9",
+        "value": "Snowy owl"
+      },
+      {
+        "id": "a10",
+        "value": "Barn owl"
+      },
+      {
+        "id": "a11",
+        "value": "Common toad"
+      },
+      {
+        "id": "a12",
+        "value": "Natterjack toad"
+      },
+      {
+        "id": "a13",
+        "value": "Dragon toad"
+      },
+      {
+        "id": "a14",
+        "value": "Harlequin toad"
+      },
+      {
+        "id": "a15",
+        "value": "Three toed tree toad"
+      }
+    ]
+  },
+  {
+    "id": "q26",
+    "question": "Black or white?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Black"
+      },
+      {
+        "id": "a2",
+        "value": "White"
+      }
+    ]
+  },
+  {
+    "id": "q27",
+    "question": "Heads or tails?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Heads"
+      },
+      {
+        "id": "a2",
+        "value": "Tails"
+      }
+    ]
+  },
+  {
+    "id": "q28",
+    "question": "Left or right?",
+    "options": [
+      {
+        "id": "a1",
+        "value": "Left"
+      },
+      {
+        "id": "a2",
+        "value": "Right"
+      }
+    ]
+  }
+]

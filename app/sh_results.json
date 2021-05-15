@@ -1,0 +1,343 @@
+{
+  "q1": {
+    "a1": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ]
+  },
+  "q2": {
+    "a1": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ]
+  },
+  "q3": {
+    "a1": [
+      { "id": "Ravenclaw", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ]
+  },
+  "q4": {
+    "a1": [{ "id": "Slytherin", "value": 100 }],
+    "a2": [{ "id": "Ravenclaw", "value": 100 }],
+    "a3": [{ "id": "Gryffindor", "value": 100 }],
+    "a4": [{ "id": "Hufflepuff", "value": 100 }]
+  },
+  "q5": {
+    "a1": [{ "id": "Hufflepuff", "value": 100 }],
+    "a2": [{ "id": "Gryffindor", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Slytherin", "value": 100 }]
+  },
+  "q6": {
+    "a1": [{ "id": "Ravenclaw", "value": 100 }],
+    "a2": [{ "id": "Hufflepuff", "value": 100 }],
+    "a3": [{ "id": "Slytherin", "value": 100 }],
+    "a4": [{ "id": "Gryffindor", "value": 100 }]
+  },
+  "q7": {
+    "a1": [{ "id": "Hufflepuff", "value": 100 }],
+    "a2": [{ "id": "Gryffindor", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Slytherin", "value": 100 }]
+  },
+  "q8": {
+    "a1": [{ "id": "Gryffindor", "value": 100 }],
+    "a2": [{ "id": "Slytherin", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Hufflepuff", "value": 100 }]
+  },
+  "q9": {
+    "a1": [{ "id": "Ravenclaw", "value": 100 }],
+    "a2": [{ "id": "Hufflepuff", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Slytherin", "value": 100 }]
+  },
+  "q10": {
+    "a1": [{ "id": "Slytherin", "value": 100 }],
+    "a2": [{ "id": "Hufflepuff", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Slytherin", "value": 100 }]
+  },
+  "q11": {
+    "a1": [{ "id": "Ravenclaw", "value": 100 }],
+    "a2": [{ "id": "Hufflepuff", "value": 100 }],
+    "a3": [{ "id": "Slytherin", "value": 100 }],
+    "a4": [{ "id": "Gryffindor", "value": 100 }]
+  },
+  "q12": {
+    "a1": [{ "id": "Hufflepuff", "value": 100 }],
+    "a2": [{ "id": "Slytherin", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Gryffindor", "value": 100 }]
+  },
+  "q13": {
+    "a1": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a2": [{ "id": "Slytherin", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Gryffindor", "value": 100 }],
+    "a5": [{ "id": "Hufflepuff", "value": 100 }],
+    "a6": [
+      { "id": "Slytherin", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ]
+  },
+  "q14": {
+    "a1": [
+      { "id": "Ravenclaw", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a3": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a4": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a5": [
+      { "id": "Ravenclaw", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ]
+  },
+  "q15": {
+    "a1": [
+      { "id": "Ravenclaw", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a2": [{ "id": "Ravenclaw", "value": 100 }],
+    "a3": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a4": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Slytherin", "value": 50 }
+    ],
+    "a5": [{ "id": "Hufflepuff", "value": 100 }],
+    "a6": [{ "id": "Slytherin", "value": 100 }]
+  },
+  "q16": {
+    "a1": [
+      { "id": "Ravenclaw", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Hufflepuff", "value": 50 }
+    ],
+    "a3": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Slytherin", "value": 50 }
+    ],
+    "a4": [
+      { "id": "Ravenclaw", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a5": [
+      { "id": "Gryffindor", "value": 50 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a6": [
+      { "id": "Gryffindor", "value": 50 },
+      {
+        "id": "Ravenclaw",
+        "value": 100
+      }
+    ]
+  },
+  "q17": {
+    "a1": [
+      { "id": "Gryffindor", "value": 100 },
+      {
+        "id": "Slytherin",
+        "value": 100
+      }
+    ],
+    "a2": [{ "id": "Ravenclaw", "value": 100 }],
+    "a3": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a4": [{ "id": "Slytherin", "value": 100 }],
+    "a5": [{ "id": "Hufflepuff", "value": 100 }],
+    "a6": [{ "id": "Gryffindor", "value": 100 }],
+    "a7": [{ "id": "Ravenclaw", "value": 100 }]
+  },
+  "q18": {
+    "a1": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Ravenclaw", "value": 100 },
+      { "id": "Slytherin", "value": 50 }
+    ],
+    "a3": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a4": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a5": [{ "id": "Slytherin", "value": 100 }],
+    "a6": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a7": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ]
+  },
+  "q19": {
+    "a1": [{ "id": "Ravenclaw", "value": 100 }],
+    "a2": [{ "id": "Hufflepuff", "value": 100 }],
+    "a3": [{ "id": "Slytherin", "value": 100 }],
+    "a4": [{ "id": "Gryffindor", "value": 100 }]
+  },
+  "q20": {
+    "a1": [{ "id": "Hufflepuff", "value": 100 }],
+    "a2": [{ "id": "Gryffindor", "value": 100 }],
+    "a3": [{ "id": "Ravenclaw", "value": 100 }],
+    "a4": [{ "id": "Slytherin", "value": 100 }]
+  },
+  "q21": {
+    "a1": [{ "id": "Ravenclaw", "value": 100 }],
+    "a2": [{ "id": "Slytherin", "value": 100 }],
+    "a3": [{ "id": "Gryffindor", "value": 100 }],
+    "a4": [{ "id": "Hufflepuff", "value": 100 }]
+  },
+  "q22": {
+    "a1": [{ "id": "Ravenclaw", "value": 100 }],
+    "a2": [{ "id": "Gryffindor", "value": 100 }],
+    "a3": [{ "id": "Hufflepuff", "value": 100 }],
+    "a4": [{ "id": "Slytherin", "value": 100 }]
+  },
+  "q23": {
+    "a1": [{ "id": "Hufflepuff", "value": 100 }],
+    "a2": [{ "id": "Slytherin", "value": 100 }],
+    "a3": [{ "id": "Gryffindor", "value": 100 }],
+    "a4": [{ "id": "Ravenclaw", "value": 100 }]
+  },
+  "q24": {
+    "a1": [{ "id": "Hufflepuff", "value": 100 }],
+    "a2": [{ "id": "Gryffindor", "value": 100 }],
+    "a3": [{ "id": "Slytherin", "value": 100 }],
+    "a4": [{ "id": "Ravenclaw", "value": 100 }]
+  },
+  "q25": {
+    "a1": [
+      { "id": "Gryffindor", "value": 50 },
+      { "id": "Slytherin", "value": 50 }
+    ],
+    "a2": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a3": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a4": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a5": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a6": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a7": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a8": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a9": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Ravenclaw", "value": 50 },
+      { "id": "Hufflepuff", "value": 50 }
+    ],
+    "a10": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a11": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a12": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a13": [
+      { "id": "Gryffindor", "value": 50 },
+      { "id": "Hufflepuff", "value": 50 }
+    ],
+    "a14": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Hufflepuff", "value": 100 }
+    ],
+    "a15": [
+      { "id": "Gryffindor", "value": 25 },
+      { "id": "Ravenclaw", "value": 50 },
+      { "id": "Hufflepuff", "value": 50 }
+    ]
+  },
+  "q26": {
+    "a1": [
+      { "id": "Gryffindor", "value": 100 },
+      { "id": "Slytherin", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ]
+  },
+  "q27": {
+    "a1": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Slytherin", "value": 100 },
+      { "id": "Gryffindor", "value": 100 }
+    ]
+  },
+  "q28": {
+    "a1": [
+      { "id": "Slytherin", "value": 100 },
+      { "id": "Ravenclaw", "value": 100 }
+    ],
+    "a2": [
+      { "id": "Hufflepuff", "value": 100 },
+      { "id": "Gryffindor", "value": 100 }
+    ]
+  }
+}
