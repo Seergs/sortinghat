@@ -66,7 +66,7 @@ def get_sortinghat_result():
 
     app.logger.info("Total points obtained: {}".format(total_points))
 
-    for house_name, house_score in score.items():
+    for _, house_score in score.items():
         house_score['percentage'] = round(house_score['score'] * 100 / total_points)
 
     return score
